@@ -1,3 +1,3 @@
 function alertUser() {
-    alert("You clicked this button");
+    alert("Unfortunately, The price is bigger than your net-worth");
 }
